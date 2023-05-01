@@ -60,7 +60,8 @@ function atualizaInterface(){
                 }
             }
             lateral.innerHTML = fotosHTML;
-        
+
+       
     }else{
         seuVotoPara.style.display = 'block';
         aviso.style.display = 'block';
